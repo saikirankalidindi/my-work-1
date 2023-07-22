@@ -1,2 +1,2 @@
 print('main code of app')
-print('version 3')
+print('final version')
